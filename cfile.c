@@ -4,10 +4,10 @@ int main(){
 	printf("Enter Your Number: ");
 	scanf("%d",&num1);
 	if(num1==0){
-		printf("Your Number is zero");
+		printf("Your Number is Zero");
 	}
 	else{
-		printf("Your is non-zero");
+		printf("Your is Non-Zero");
 	}
 	return 0;
 }
