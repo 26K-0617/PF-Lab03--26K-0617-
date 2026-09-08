@@ -7,7 +7,7 @@ int main(){
 		printf("Your Number is zero");
 	}
 	else{
-		printf("Your is non-zero");
+		printf("Your number is non-zero");
 	}
 	return 0;
 }
